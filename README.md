@@ -15,7 +15,7 @@ Later I will add more information.
 
 ### IMPORT:
 <ol>
-  <li>Download the Github <a href="https://github.com/ContExpo/ingdelsoftwareES/tree/main/Modelio/tp7_isoft">modelio project folder</a>.</li>
+  <li>Download the Github <a href="https://github.com/ddevigner/orderoo/blob/main/models_designs-Modelio.zip">modelio project folder</a>.</li>
   <li>Zip it.</li>
   <li>In Modelio Context Menu, select "File > Import a project".</li>
   <li>Search the zip you've just created wherever it is, and selected it.</li>
