@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orderoo_0">#fffaf0</color>
+    <color name="orderoo_1">#e8ddca</color>
+    <color name="orderoo_2">#c9c0ad</color>
+    <color name="orderoo_3">#aba496</color>
+    <color name="orderoo_highlight">#969289</color>
+    <color name="orderoo_buttons_1">#917b4d</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#E0E0E0</color>
+    <color name="bottom_dialog_bg">#FFDB4E44</color>
+</resources>

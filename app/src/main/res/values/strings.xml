@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Orderoo</string>
+
+    <!-- ORDERS -->
+    <!-- ORDER CONTEXT MENU -->
+    <string name="order_menu_delete">Delete order</string>
+    <string name="order_menu_edit">Edit order</string>
+    <string name="order_menu_share">Share order</string>
+
+    <!-- ORDER EDIT ACTIVITY -->
+    <string name="order_client">Client name</string>
+    <string name="order_phone">Phone</string>
+    <string name="order_date">Date</string>
+    <string name="order_quantity_edit">Edit product quantity</string>
+    <string name="order_quantity_delete">Delete product quantity</string>
+
+    <!-- PRODUCTS -->
+    <!-- PRODUCT CONTEXT MENU -->
+    <string name="product_menu_delete">Delete product</string>
+    <string name="product_menu_edit">Edit product</string>
+
+    <!-- PRODUCT EDIT ACTIVITY -->
+    <string name="product_name">Name</string>
+    <string name="product_price">Price</string>
+    <string name="product_weight">Weight</string>
+    <string name="product_description">Description</string>
+    <string name="share_now">Share now</string>
+    <string name="sort_orders">Sorting orders</string>
+    <string name="sort_by_default">Sort by default</string>
+    <string name="sort_client_name">Sort by client name</string>
+    <string name="sort_date">Sort by date</string>
+    <string name="sort_phone">Sort by phone</string>
+    <string name="sort_name">Sort by name</string>
+    <string name="sort_price">Sort by price</string>
+    <string name="sort_weight">Sort by weight</string>
+    <string name="sort_products">Sorting products</string>
+    <string name="quantity">n</string>
+    <string name="desired_quantity_text">Choose the quantity you want.</string>
+    <string name="confirm">Confirm</string>
+    <string name="app_title">Orderoo</string>
+    <string name="price_tag">€</string>
+    <string name="weight_tag">kg</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="edit_order_title">Edit Order</string>
+    <string name="edit_product_title">Edit Product</string>
+    <string name="select_product_title">Select product</string>
+    <string name="no_product_to_add">It seems a bit empty, no product available.</string>
+    <string name="no_products_yet">No products yet</string>
+    <string name="no_orders_yet">No Orders Yet</string>
+
+
+</resources>

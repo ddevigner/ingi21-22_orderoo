@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable-v24/background_2.xml" value="0.209375" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1375" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable-v24/riple_order_product.xml" value="0.209375" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/background_1.xml" value="0.15052083333333333" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/background_order_row.xml" value="0.2815384615384615" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/bg_form.xml" value="0.1375" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/bottom_dialog_bg.xml" value="0.2815384615384615" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.15677083333333333" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/ic_baseline_sort_24.xml" value="0.15677083333333333" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/ic_baseline_sort_24_2.xml" value="0.15052083333333333" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/ic_baseline_sort_by_alpha_24.xml" value="0.15677083333333333" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/ic_baseline_weight_32.xml" value="0.15052083333333333" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/riple.xml" value="0.1" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/riple_order_fragment.xml" value="0.1125" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/row_background.xml" value="0.14010416666666667" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/drawable/selector.xml" value="0.10740740740740741" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/activity_order_edit.xml" value="0.25271739130434784" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/activity_product_edit.xml" value="0.25271739130434784" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/activity_quantity_edit.xml" value="0.25271739130434784" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/dialog_order_sorting.xml" value="0.25271739130434784" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/dialog_product_quantity.xml" value="0.25271739130434784" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/dialog_product_sorting.xml" value="0.25271739130434784" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/element_order_row.xml" value="0.264" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/element_product_row.xml" value="0.14375" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/element_row.xml" value="0.13043478260869565" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/fragment_order.xml" value="0.1" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/fragment_product.xml" value="0.25271739130434784" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/menu_main_bottom.xml" value="0.14375" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/product_row_in_selection.xml" value="0.25271739130434784" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/quantity_row.xml" value="0.264" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/layout/quantity_row_in_order.xml" value="0.28541666666666665" />
+        <entry key="..\:/Dede/INGI2021-2022/isoft/prx/tp7/Orderoo/app/src/main/res/menu/bottom_menu_nav.xml" value="0.14375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

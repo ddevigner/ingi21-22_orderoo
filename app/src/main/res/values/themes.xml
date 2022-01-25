@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Orderoo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/orderoo_highlight</item>
+        <item name="colorPrimaryDark">@color/orderoo_3</item>
+        <item name="colorAccent">@color/orderoo_buttons_1</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Orderoo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Orderoo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Orderoo.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="BottomSheetDialogTheme" parent="BottomSheetDialogStyle">
+
+    </style>
+
+    <style name="BottomSheetDialogStyle" parent="android:Theme.Holo.Dialog.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/Animation.Design.BottomSheetDialog</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+
+
+
+</resources>
